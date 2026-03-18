@@ -40,7 +40,7 @@ Maven, Docker, Docker Compose, Git, REST API, Postman, JUnit, Lombok
 ### 📫 Контакты и статус поиска
 
 📩 **Telegram:** [@jeen4mer](https://t.me/jeen4mer)  
-📧 **Email:** [ivanbakulevv@yandex.com]  
+📧 **Email:** ivanbakulevv@yandex.com
 💼 **GitHub:** [jeeen4mer](https://github.com/jeeen4mer)
 
 **Открыт к предложениям о работе.** Готов к выполнению тестовых заданий и прохождению собеседований.
