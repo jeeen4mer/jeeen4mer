@@ -7,7 +7,7 @@
 ### 🛠️ Стек технологий
 
 **Язык и фреймворки:**
-Java 11/17/21, Spring Boot, Spring Data JPA (Hibernate)
+Java, Spring Boot, Spring Data JPA (Hibernate)
 
 **Базы данных и инструменты работы с данными:**
 PostgreSQL, H2, SQL, JDBC
